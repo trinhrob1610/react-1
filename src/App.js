@@ -1,11 +1,11 @@
 import logo from "./logo.svg";
 import "./App.css";
-import Home from "./components/BaiTapThucHanhLayout";
+import Common from "./components/BaiTapThucHanhLayout";
 
 function App() {
   return (
     <div className="App">
-      <Home />
+      <Common />
     </div>
   );
 }
